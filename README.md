@@ -141,7 +141,7 @@ Despite the noisy & insufficient data, and the inaccuracies in weighting, the ma
 - Carbs made me gain weight. The worst were high-starch and sugary foods.
 - Fatty and oily foods did the opposite: they were positively correlated with weight-loss.
 
-The 'stayhome' lifestlye, which fell mostly on weekends, may have been a red-herring: I slept longer when I didn't have to commute to work, OTOH: my diet on stay-home days may have been different.
+The 'stayhome' lifestyle, which fell mostly on weekends, may have been a red-herring: I slept longer when I didn't have to commute to work, OTOH: my diet on stay-home days may have been different.
 
 It took me a while to figure out the sleep part. *When we sleep we don't eat*. It is that simple.
 
